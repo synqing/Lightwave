@@ -24,3 +24,4 @@ ________________________________________________________________________________
 ### 3. We've selected the M5Stack CoreS3 as the development platform 
   - At the moment, the project has already been ported to the M5Stack CoreS3 and added an encoder
 
+## Detailed Project Brief Can Be Found Here: https://g4muuzv0dsz.sg.larksuite.com/docx/LjnTdD2WToGb4ExbWxslAFz8ggf
